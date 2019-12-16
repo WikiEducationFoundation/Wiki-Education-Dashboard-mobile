@@ -9,8 +9,8 @@ Wiki Education dashboard for Wikipedia editing projects.
 | [React Native Navigation](https://github.com/wix/react-native-navigation) | App-wide support for 100% native navigation with an easy cross-platform interface. |
 
 ### Requirements
-- [Node](https://nodejs.org/) >= 5.0.0
-- [npm](https://npmjs.com) >= 3
+- [Node](https://nodejs.org/) >= 10.17.0
+- [npm](https://npmjs.com) >= 6.13.0
 
 ### Installation
 
@@ -21,14 +21,6 @@ $ git clone git@github.com:kyrrahnork/wiki.git
 $ cd wiki
 $ yarn install or npm install
 
-then:
-
-npm install --save react-native-gridview
-npm install --save react-native-elements@beta
-npm install --save react-navigation
-npm install --save react-native-recycler-listview
-```
-
 ### How to start in Android Studio Emulator
 ```
 Open Android Studio
@@ -38,14 +30,12 @@ $ react-native run-android
 ```
 ### How to start in Expo
 ```
-Download Expo App to Testing Device
+Download Expo App to Testing in mobile/tablet.
 Install Expo CLI
+  npm install -g expo-cli
 Open Command Line & Navigate to Project Folder 
-expo start
+expo start / npm start/ yarn start
 ```
-
-
-
 
 ### Link to WikiEDU Dashboard
 
