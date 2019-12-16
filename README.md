@@ -20,22 +20,22 @@ Clone this repo
 $ git clone git@github.com:kyrrahnork/wiki.git
 $ cd wiki
 $ yarn install or npm install
+```
 
 ### How to start in Android Studio Emulator
-```
+
 Open Android Studio
 Start Emulator
 Open Command Line
-$ react-native run-android
-```
+  $ react-native run-android
+
 ### How to start in Expo
-```
 Download Expo App to Testing in mobile/tablet.
 Install Expo CLI
   npm install -g expo-cli
 Open Command Line & Navigate to Project Folder 
 expo start / npm start/ yarn start
-```
+
 
 ### Link to WikiEDU Dashboard
 
