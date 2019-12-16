@@ -30,11 +30,11 @@ Open Command Line
   $ react-native run-android
 
 ### How to start in Expo
-1.Download Expo App to Testing in mobile/tablet.
-2.Install Expo CLI
-  npm install -g expo-cli
-3.Open Command Line & Navigate to Project Folder 
-4.expo start / npm start/ yarn start
+    1.Download Expo App to Testing in mobile/tablet.
+    2.Install Expo CLI
+      npm install -g expo-cli
+    3.Open Command Line & Navigate to Project Folder 
+    4.expo start / npm start/ yarn start
 
 
 ### Link to WikiEDU Dashboard
